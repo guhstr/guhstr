@@ -2,7 +2,7 @@
 
 <br>
 
-<img border="0" alt="banner" align="center" src="https://media.discordapp.net/attachments/1216534221384847410/1283806850244018283/c1d71f9551a30854b7df5399a2ec2ceb.gif?ex=6854284d&is=6852d6cd&hm=b8c83e33e6eda75a0e34a3ae2660e90e3691fa8154a20b8351bf3f3705bcfba6&=&width=846&height=366">
+<img border="0" alt="banner" src="https://media.discordapp.net/attachments/1216534221384847410/1283806850244018283/c1d71f9551a30854b7df5399a2ec2ceb.gif?ex=6854284d&is=6852d6cd&hm=b8c83e33e6eda75a0e34a3ae2660e90e3691fa8154a20b8351bf3f3705bcfba6&=&width=2533&height=1080">
 
 <br>
 I'm a 18-year-old **System Developer**.
