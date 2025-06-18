@@ -2,7 +2,7 @@
 
 <br>
 
-<img border="0" alt="banner" src="https://i.giphy.com/mMZoDlc74j6NRA6zS3.webp">
+<img border="0" alt="banner" src="https://cdna.artstation.com/p/assets/images/images/089/195/994/original/guhstr-c1d71f9551a30854b7df5399a2ec2ceb-2-2.gif?1750283234">
 
 <br>
 
