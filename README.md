@@ -5,9 +5,9 @@
 ---
 <br>
 
-<b>I'm a 18-year-old **System Developer**.
+I'm a 18-year-old **System Developer**.
 
-I currently work at *** as a ***.<b>
+I currently work at __ as a __.
 
 Reach me at:
 - **guhsrtori43@gmail.com**  
